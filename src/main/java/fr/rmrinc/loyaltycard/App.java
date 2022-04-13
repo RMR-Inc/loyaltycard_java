@@ -1,6 +1,6 @@
 package fr.rmrinc.loyaltycard;
 
-import javax.swing.*; 
+import javax.swing.*;
 
 /**
  * @author RMR-Inc
