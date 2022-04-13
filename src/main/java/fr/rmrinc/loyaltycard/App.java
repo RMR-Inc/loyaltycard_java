@@ -1,5 +1,7 @@
 package fr.rmrinc.loyaltycard;
 
+import javax.swing.*;
+
 /**
  * @author RMR-Inc
  * @developer DynamoRed
